@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Blackberries",
+    "price": 14.99,
+    "imgUrl": "./blackberries.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Blueberries",
+    "price": 20,
+    "imgUrl": "./blueberries.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cherries",
+    "price": 12.55,
+    "imgUrl": "./cherries.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Raspberries",
+    "price": 17.25,
+    "imgUrl": "./raspberries.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Strawberries",
+    "price": 9.5,
+    "imgUrl": "./strawberries.jpg"
+  }
+]
